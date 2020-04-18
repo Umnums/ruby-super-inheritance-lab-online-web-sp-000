@@ -6,15 +6,6 @@ class Student
 
   def raise_hand
     puts "Pick me!"
-    super
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
 
   end
 
