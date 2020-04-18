@@ -9,5 +9,6 @@ class ChattyStudent < Student
     9.times do
       raise_hand
     end
+  end
 
 end
